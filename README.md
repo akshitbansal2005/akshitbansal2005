@@ -28,4 +28,9 @@ I’m Akshit, an Electronics & Telecommunication Engineering student with a pass
 ## Connect with me
 
 <p><a target="_blank" href="https://www.linkedin.com/in/https://www.linkedin.com/in/akshit-bansal-a05247232/" style="display: inline-block;"><img src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=%230a77b6" alt="linkedin" /></a>
+<a target="_blank" href="https://www.instagram.com/_excusemeakshit_" style="display: inline-block;"><img src="https://img.shields.io/badge/instagram-logo?style=for-the-badge&logo=instagram&logoColor=white&color=%23F35369" alt="instagram" /></a></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=akshitbansal2005&show_icons=true&locale=en" alt="akshitbansal2005" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=akshitbansal2005&" alt="akshitbansal2005" /></p>
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=akshitbansal2005&show_icons=true&locale=en&layout=compact" alt="akshitbansal2005" /></p>
+<p><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=akshitbansal2005" alt="akshitbansal2005" /></a></p>
 
