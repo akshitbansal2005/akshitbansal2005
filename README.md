@@ -1,5 +1,11 @@
+<!-- Banner Image -->
+<p align="center">
+  <img src="https://images.unsplash.com/photo-1612831455545-69a5d5f9d7b0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxfDB8MXxyYW5kb218MHx8c2VsZi1kZXNpZ258fHx8fDE2OTUwNzQ5MDA&ixlib=rb-4.0.3&q=80&w=1200" alt="Banner Image" width="100%" />
+</p>
+
 <!-- Header Typing Animation -->
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=500&color=00F7FF&center=true&vCenter=true&width=700&lines=Hey+there!+👋;I'm+Akshit+Bansal;Electronics+%26+Telecom+Engineer;Passionate+Software+Developer;Open-Source+Contributor;Learning+Everyday!)](https://git.io/typing-svg)
+
 
 ---
 
