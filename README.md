@@ -1,6 +1,6 @@
 <!-- Banner Image -->
 <p align="center">
-  <img src="[https://images.unsplash.com/photo-1612831455545-69a5d5f9d7b0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxfDB8MXxyYW5kb218MHx8c2VsZi1kZXNpZ258fHx8fDE2OTUwNzQ5MDA&ixlib=rb-4.0.3&q=80&w=1200](https://sdmntpraustraliaeast.oaiusercontent.com/files/00000000-fa78-61fa-83c2-0b917768fc31/raw?se=2025-09-19T16%3A20%3A38Z&sp=r&sv=2024-08-04&sr=b&scid=3deccd30-1420-52ee-875e-09aadee01ca8&skoid=b7fc319f-b93c-4fac-ba5f-14fdc3f9209f&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2025-09-19T11%3A43%3A23Z&ske=2025-09-20T11%3A43%3A23Z&sks=b&skv=2024-08-04&sig=QT5I9NUBrE6jXhOJzoACmUF0o3bADQo9dKoUNyAQUfE%3D)" alt="Banner Image" width="100%" />
+  <img src="https://sdmntpraustraliaeast.oaiusercontent.com/files/00000000-fa78-61fa-83c2-0b917768fc31/raw?se=2025-09-19T16%3A20%3A38Z&sp=r&sv=2024-08-04&sr=b&scid=3deccd30-1420-52ee-875e-09aadee01ca8&skoid=b7fc319f-b93c-4fac-ba5f-14fdc3f9209f&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2025-09-19T11%3A43%3A23Z&ske=2025-09-20T11%3A43%3A23Z&sks=b&skv=2024-08-04&sig=QT5I9NUBrE6jXhOJzoACmUF0o3bADQo9dKoUNyAQUfE%3D" alt="Banner Image" width="100%" />
 </p>
 
 <!-- Header Typing Animation -->
