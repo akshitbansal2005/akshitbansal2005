@@ -1,5 +1,6 @@
 <!-- Header Typing Animation -->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&duration=2500&pause=800&color=FF69B4&center=true&vCenter=true&width=650&lines=Hey+there!+👋;I'm+Akshit+Bansal;Electronics+%26+Telecom+Engineer;Passionate+Software+Dev;Open-Source Advocate;Always+Exploring+Tech!)](https://git.io/typing-svg)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&duration=2500&pause=800&color=FF69B4&center=true&vCenter=true&width=650&lines=Hey+there!+👋;I'm+Akshit+Bansal;Electronics+%26+Telecom+Engineer;Passionate+Software+Dev;Open-Source Advocate;Always+Exploring+Tech!)
+
 
 ---
 
