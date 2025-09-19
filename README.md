@@ -27,6 +27,6 @@ I’m Akshit, an Electronics & Telecommunication Engineering student with a pass
 
 ## Connect with me
 
-<p><a target="_blank" href="https://www.linkedin.com/in/linkedin.com/in/akshit-bansal-a05247232 Email" style="display: inline-block;"><img src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=%230a77b6" alt="linkedin" /></a>
+<p><a target="_blank" href="[https://www.linkedin.com/in/linkedin.com/in/akshit-bansal-a05247232](https://www.linkedin.com/in/akshit-bansal-a05247232/) Email" style="display: inline-block;"><img src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=%230a77b6" alt="linkedin" /></a>
 <a target="_blank" href="https://www.instagram.com/_excusemeakshit_" style="display: inline-block;"><img src="https://img.shields.io/badge/instagram-logo?style=for-the-badge&logo=instagram&logoColor=white&color=%23F35369" alt="instagram" /></a></p>
 
