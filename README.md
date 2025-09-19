@@ -1,12 +1,11 @@
-<!-- Header Typing Animation with Emojis & Vibes -->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&duration=2500&pause=800&color=FF69B4&center=true&vCenter=true&width=650&lines=Hey+there!+👋;I'm+Akshit+Bansal;Electronics+%26+Telecom+Engineer;Passionate+Software Dev;Open-Source Advocate;Always+Exploring+Tech!)](https://git.io/typing-svg)
+<!-- Header Typing Animation -->
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&duration=2500&pause=800&color=FF69B4&center=true&vCenter=true&width=650&lines=Hey+there!+👋;I'm+Akshit+Bansal;Electronics+%26+Telecom+Engineer;Passionate+Software+Dev;Open-Source Advocate;Always+Exploring+Tech!)](https://git.io/typing-svg)
 
 ---
 
-<!-- Profile Views & Badge Fun -->
+<!-- Profile Views & Badge -->
 <p align="center"> 
   <img src="https://komarev.com/ghpvc/?username=akshitbansal2005&label=Profile+Views&color=ff69b4&style=flat" alt="profile views" /> 
-  <img src="https://img.shields.io/badge/Level-Up-1abc9c?style=for-the-badge&logo=github" />
 </p>
 
 ---
@@ -16,7 +15,7 @@
 💻 Passionate coder & problem solver skilled in **C++, DSA, Python & Web Development**  
 🚀 Open-source contributor & hackathon enthusiast  
 🌱 Exploring **Full-Stack Development, AI, and Blockchain**  
-✨ I love creating **interactive projects & tools** that make life easier  
+✨ Love creating **interactive projects & tools**  
 
 ---
 
@@ -32,39 +31,32 @@
 
 ## ⚒️ Skills & Tools  
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,python,html,css,js,react,nodejs,git,github,linux,vscode,figma,aws,docker" />
+  <img src="https://skillicons.dev/icons?i=cpp,python,html,css,js,react,nodejs,git,github,linux,vscode,figma,docker" />
 </p>
 
 ---
 
 ## 📊 GitHub Stats  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=akshitbansal2005&show_icons=true&theme=vision-friendly-dark&count_private=true&hide_border=false" height="180"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=akshitbansal2005&theme=vision-friendly-dark&hide_border=false" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=akshitbansal2005&show_icons=true&theme=radical&count_private=true" height="180"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=akshitbansal2005&theme=radical" height="180"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akshitbansal2005&layout=compact&theme=vision-friendly-dark&hide_border=false" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akshitbansal2005&layout=compact&theme=radical" height="150"/>
 </p>
 
 ---
 
 ## 🏆 Achievements  
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=akshitbansal2005&theme=gruvbox&margin-w=10&margin-h=10&no-frame=true" />
+  <img src="https://github-profile-trophy.vercel.app/?username=akshitbansal2005&theme=radical&margin-w=10&margin-h=10&no-frame=true" />
 </p>
 
 ---
 
-## 🔥 My Activity Heatmap  
-![Akshit’s GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=akshitbansal2005&theme=github-compact&area=true&hide_border=false)
-
----
-
-## 🎮 Fun Section: Random Tech Quote  
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
-</p>
+## 📈 Contribution Graph  
+![Akshit’s GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=akshitbansal2005&theme=react-dark&hide_border=true&bg_color=0D1117&line=00FFCC&point=FFFFFF)
 
 ---
 
