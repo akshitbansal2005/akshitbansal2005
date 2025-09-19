@@ -1,30 +1,72 @@
-## About Me
+<!-- Typing Banner -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F7F7&width=435&lines=Hi%2C+I'm+Akshit+Bansal!;Software+Developer+%7C+Engineer+%7C+Learner;Open-Source+Contributor;Always+Exploring+New+Technologies)](https://git.io/typing-svg)
 
-I’m Akshit, an Electronics & Telecommunication Engineering student passionate about software development, problem-solving, and open-source contributions. With a strong foundation in C++, DSA, and web technologies, I enjoy building projects that blend creativity with technology while focusing on clean, efficient, and scalable code. I’ve contributed to open-source programs like GirlScript Summer of Code Extended Edition and participated in initiatives such as the Microsoft Student Learn Ambassador Program, where I honed my skills through impactful projects like a Netflix clone and a virtual world tour platform. Always eager to learn, I’m driven by curiosity to explore new technologies, collaborate with developers worldwide, and create solutions that make a real difference.
+---
 
-## My Skills
+## 👨‍💻 About Me  
+I’m **Akshit Bansal**, an Electronics & Telecommunication Engineering student and passionate software developer who enjoys building impactful projects and contributing to open-source. Skilled in **C++, DSA, and web technologies**, I love blending creativity with technology while writing clean, scalable code. I’ve contributed to programs like **GirlScript Summer of Code** and participated in **Microsoft Student Learn Ambassador Program**, where I built projects such as a **Netflix clone** and a **Virtual World Tour platform**.  
 
-<img src="https://img.shields.io/badge/C++-%2300599C.svg?logo=c%2B%2B&logoColor=white"> 
-<img src="https://img.shields.io/badge/C-00599C?logo=c&logoColor=white"> 
-<img src="https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=fff"> 
-<img src="https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white"> 
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000"> 
-<img src="https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=fff"> 
-<img src="https://img.shields.io/badge/Tailwind%20CSS-%2338B2AC.svg?logo=tailwind-css&logoColor=white"> 
-<img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff"> 
-<img src="https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white"> 
-<img src="https://img.shields.io/badge/Node.js-6DA55F?logo=node.js&logoColor=white"> 
-<img src="https://img.shields.io/badge/ChatGPT-74aa9c?logo=openai&logoColor=white"> 
-<img src="https://img.shields.io/badge/Google%20Gemini-886FBF?logo=googlegemini&logoColor=fff"> 
+---
 
-## GitHub Stats
+## 🚀 My Skills  
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="30" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" height="30" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" />
+</p>
 
-<table><tbody><tr border="none"><td width="50%" align="center">
-<img align="center" src="https://readme-stats-fork-mauve.vercel.app/api/?username=akshitbansal2005&theme=dark&show_icons=true&count_private=true">
+---
 
-<img alt="Mark streak" src="https://github-readme-streak-stats-five-roan.vercel.app?user=akshitbansal2005&theme=dark"></td><td width="50%" align="center">
-<img align="center" src="https://readme-stats-fork-mauve.vercel.app/api/top-langs/?username=akshitbansal2005&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=6"></td></tr></tbody></table>
+## 📊 GitHub Stats  
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=akshitbansal2005&show_icons=true&theme=radical" height="150" alt="stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=akshitbansal2005&theme=radical" height="150" alt="streak" />
+</div>
 
-## Connect with me
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=akshitbansal2005&layout=compact&theme=radical" height="150" alt="langs" />
+</div>
 
-<p align="center">🔗 LinkedIn: <a href="https://github.com/akshitbansal2005" target="_blank">Akshit Bansal</a> Email: akshitbansal.workspace@gmail.com</p>
+---
+
+## 🔥 Activity Graph  
+[![Akshit’s github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=akshitbansal2005&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+---
+
+
+## 📬 Connect with Me  
+<p>
+  <a href="https://www.linkedin.com/in/akshit-bansal-a05247232/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0a77b6?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" />
+  </a>
+  <a href="https://www.instagram.com/_excusemeakshit_" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-F35369?style=for-the-badge&logo=instagram&logoColor=white" alt="instagram" />
+  </a>
+  <a href="mailto:akshitbansal.workspace@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail" />
+  </a>
+</p>
+
+---
+
+## 🐍 Snake Animation  
+![Snake animation](https://raw.githubusercontent.com/akshitbansal2005/akshitbansal2005/output/snake.svg)
+
+---
