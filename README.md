@@ -1,50 +1,29 @@
-<h2 align="left">Hi 👋! My name is Akshit and I'm a Software Developer & Electronics & Telecommunication Engineering student, from India</h2>
+## About Me
 
-###
+I’m Akshit, an Electronics & Telecommunication Engineering student with a passion for software development, open-source, and problem-solving. Skilled in C++, DSA, and web technologies, I enjoy creating impactful projects that merge creativity with technology. I’ve contributed to open-source programs, explored hackathons, and built applications like a Netflix clone and virtual world tour platform. Always eager to learn, I’m driven to grow my skills and collaborate on innovative solutions.
+## My Skills
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YourUserName&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=YourUserName&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
+<img src="https://img.shields.io/badge/C++-%2300599C.svg?logo=c%2B%2B&logoColor=white"> 
+<img src="https://img.shields.io/badge/C-00599C?logo=c&logoColor=white"> 
+<img src="https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=fff"> 
+<img src="https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white"> 
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000"> 
+<img src="https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=fff"> 
+<img src="https://img.shields.io/badge/Tailwind%20CSS-%2338B2AC.svg?logo=tailwind-css&logoColor=white"> 
+<img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff"> 
+<img src="https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white"> 
+<img src="https://img.shields.io/badge/Node.js-6DA55F?logo=node.js&logoColor=white"> 
+<img src="https://img.shields.io/badge/ChatGPT-74aa9c?logo=openai&logoColor=white"> 
+<img src="https://img.shields.io/badge/Google%20Gemini-886FBF?logo=googlegemini&logoColor=fff"> 
 
-###
+## GitHub Stats
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+<table><tbody><tr border="none"><td width="50%" align="center">
+<img align="center" src="https://readme-stats-fork-mauve.vercel.app/api/?username=akshitbansal2005&theme=dark&show_icons=true&count_private=true">
 
-###
+<img alt="Mark streak" src="https://github-readme-streak-stats-five-roan.vercel.app?user=akshitbansal2005&theme=dark"></td><td width="50%" align="center">
+<img align="center" src="https://readme-stats-fork-mauve.vercel.app/api/top-langs/?username=akshitbansal2005&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=6"></td></tr></tbody></table>
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="c++ logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-</div>
+## Connect with me
 
-###
-
-<div align="left">
-  <a href="https://www.linkedin.com/in/YourLinkedIn" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
-  <a href="mailto:YourEmail@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  </a>
-  <a href="https://instagram.com/YourInstagram" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  </a>
-</div>
-
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/YourUserName/YourUserName/output/snake.svg" alt="Snake animation" />
-
-
+<p align="center">🔗 LinkedIn: <a href="https://github.com/akshitbansal2005" target="_blank">Akshit Bansal</a> Email: akshitbansal.workspace@gmail.com</p>
