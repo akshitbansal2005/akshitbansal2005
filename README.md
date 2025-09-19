@@ -1,6 +1,7 @@
 ## About Me
 
-I’m Akshit, an Electronics & Telecommunication Engineering student with a passion for software development, open-source, and problem-solving. Skilled in C++, DSA, and web technologies, I enjoy creating impactful projects that merge creativity with technology. I’ve contributed to open-source programs, explored hackathons, and built applications like a Netflix clone and virtual world tour platform. Always eager to learn, I’m driven to grow my skills and collaborate on innovative solutions.
+I’m Akshit, an Electronics & Telecommunication Engineering student passionate about software development, problem-solving, and open-source contributions. With a strong foundation in C++, DSA, and web technologies, I enjoy building projects that blend creativity with technology while focusing on clean, efficient, and scalable code. I’ve contributed to open-source programs like GirlScript Summer of Code Extended Edition and participated in initiatives such as the Microsoft Student Learn Ambassador Program, where I honed my skills through impactful projects like a Netflix clone and a virtual world tour platform. Always eager to learn, I’m driven by curiosity to explore new technologies, collaborate with developers worldwide, and create solutions that make a real difference.
+
 ## My Skills
 
 <img src="https://img.shields.io/badge/C++-%2300599C.svg?logo=c%2B%2B&logoColor=white"> 
@@ -26,21 +27,4 @@ I’m Akshit, an Electronics & Telecommunication Engineering student with a pass
 
 ## Connect with me
 
-<p>
-  <a target="_blank" href="https://www.linkedin.com/in/akshit-bansal-a05247232/" style="display: inline-block;">
-    <img src="https://img.shields.io/badge/LinkedIn-0a77b6?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" />
-  </a>
-  <a target="_blank" href="https://www.instagram.com/_excusemeakshit_" style="display: inline-block;">
-    <img src="https://img.shields.io/badge/Instagram-F35369?style=for-the-badge&logo=instagram&logoColor=white" alt="instagram" />
-  </a>
-  <a target="_blank" href="mailto:yourmail@gmail.com" style="display: inline-block;">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail" />
-  </a>
-</p>
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=akshitbansal2005&show_icons=true&locale=en" alt="akshitbansal2005" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=akshitbansal2005&" alt="akshitbansal2005" /></p>
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=akshitbansal2005&show_icons=true&locale=en&layout=compact" alt="akshitbansal2005" /></p>
-<p><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=akshitbansal2005" alt="akshitbansal2005" /></a></p>
-
-
+<p align="center">🔗 LinkedIn: <a href="https://github.com/akshitbansal2005" target="_blank">Akshit Bansal</a> Email: akshitbansal.workspace@gmail.com</p>
