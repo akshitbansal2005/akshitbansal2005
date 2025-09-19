@@ -1,6 +1,6 @@
 ## About Me
 
-I’m Akshit, an Electronics & Telecommunication Engineering student passionate about software development, problem-solving, and open-source contributions. With a strong foundation in C++, DSA, and web technologies, I enjoy building projects that blend creativity with technology while focusing on clean, efficient, and scalable code. I’ve contributed to open-source programs like GirlScript Summer of Code Extended Edition and participated in initiatives such as the Microsoft Student Learn Ambassador Program, where I honed my skills through impactful projects like a Netflix clone and a virtual world tour platform. Always eager to learn, I’m driven by curiosity to explore new technologies, collaborate with developers worldwide, and create solutions that make a real difference.
+I’m Akshit, an Electronics & Telecommunication Engineering student with a passion for software development, open-source, and problem-solving. Skilled in C++, DSA, and web technologies, I enjoy creating impactful projects that merge creativity with technology. I’ve contributed to open-source programs, explored hackathons, and built applications like a Netflix clone and virtual world tour platform. Always eager to learn, I’m driven to grow my skills and collaborate on innovative solutions.
 
 ## My Skills
 
