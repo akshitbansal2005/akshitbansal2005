@@ -58,13 +58,6 @@
 
 ---
 
-## 🏆 Achievements  
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=akshitbansal2005&theme=radical&margin-w=10&margin-h=10&no-frame=true" />
-</p>
-
----
-
 ## 🔥 Activity Graph  
 [![Akshit's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=akshitbansal2005&bg_color=0D1117&color=00FFCC&line=00FFCC&point=FFFFFF&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
