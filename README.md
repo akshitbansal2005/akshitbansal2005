@@ -1,7 +1,6 @@
 <!-- Header Typing Animation -->
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=500&color=00F7FF&center=true&vCenter=true&width=700&lines=Hey+there!+👋;I'm+Akshit+Bansal;Electronics+%26+Telecom+Engineer;Passionate+Software+Developer;Open-Source+Contributor;Learning+Everyday!)](https://git.io/typing-svg)
 
-
 ---
 
 <!-- Profile Views -->
@@ -50,7 +49,7 @@
 ## 📊 GitHub Stats  
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=akshitbansal2005&show_icons=true&theme=radical" alt="stats" height="180"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=akshitbansal2005&theme=radical" alt="streak" height="180"/>
+  <img src="https://streak-stats.demolab.com/?user=akshitbansal2005&theme=radical" alt="streak" height="180"/>
 </p>
 
 <p align="center">
@@ -67,7 +66,7 @@
 ---
 
 ## 🔥 Activity Graph  
-![Akshit’s Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=akshitbansal2005&theme=react-dark&hide_border=true&bg_color=0D1117&line=00FFCC&point=FFFFFF)
+[![Akshit's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=akshitbansal2005&bg_color=0D1117&color=00FFCC&line=00FFCC&point=FFFFFF&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ---
 
