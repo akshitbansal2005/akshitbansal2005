@@ -39,12 +39,11 @@
 
 ---
 
-## ⚒️ Languages & Tools  
+## ⚒️ Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,html,css,js,react,python,git,github,linux,vscode,figma,docker,tailwind" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,py,js,bash,html,css,react,nextjs,tailwind,bootstrap,nodejs,express,mongodb,postgresql,mysql,git,github,linux,ubuntu,docker,vscode,figma,netlify,arduino&perline=13" />
 </p>
 
----
 
 ## 📊 GitHub Stats  
 <p align="center">
