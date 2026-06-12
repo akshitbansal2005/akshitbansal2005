@@ -32,7 +32,7 @@
 ---
 
 ## ⚡ Fun Facts  
-- 🎯 Solved **500+ DSA problems** on platforms like LeetCode & Codeforces  
+- 🎯 Solved **250+ DSA problems** on platforms like LeetCode & Codeforces  
 - 🌍 Built **projects impacting users globally**  
 - 🏆 Active contributor in **Hackathons & Open-Source Programs**  
 - 🤖 Experimenting with **AI, Robotics, and IoT Projects**  
