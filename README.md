@@ -41,11 +41,11 @@
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="https://leetcode.com/">
+<a href="https://leetcode.com/AB0103">
 <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
 </a>
 
-<a href="https://codeforces.com/">
+<a href="https://codeforces.com/akshitbansal72">
 <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge"/>
 </a>
 
