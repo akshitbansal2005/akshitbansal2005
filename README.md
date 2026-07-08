@@ -1,68 +1,141 @@
 <!-- Header Typing Animation -->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=500&color=00F7FF&center=true&vCenter=true&width=700&lines=Hey+there!+👋;I'm+Akshit+Bansal;Passionate+Software+Developer;Competitive+Programmer;Open-Source+Contributor;Learning+Everyday!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=500&color=00F7FF&center=true&vCenter=true&width=700&lines=Hey+there!+👋;I'm+Akshit+Bansal;Software+Developer;Competitive+Programmer;Open-Source+Contributor;Building+Cool+Things+Everyday)](https://git.io/typing-svg)
 
 ---
 
 <!-- Profile Views -->
-<p align="center"> 
-  <img src="https://komarev.com/ghpvc/?username=akshitbansal2005&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" /> 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=akshitbansal2005&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
 
 ---
 
-## 🌟 About Me  
-🎓 **Electronics & Telecommunication Engineering Student**  
-💻 **Software Developer:** C++, DSA, Web Dev, Python  
-🚀 **Open-Source Enthusiast & Hackathon Participant**  
-🌱 Exploring **Full-Stack Development, AI, and IoT**  
-✨ Love building **creative projects** that make a real impact  
+# 👋 About Me
 
-> "Code is not just writing, it's creating magic!" ✨
+🎓 B.Tech Electronics & Telecommunication Engineering Student
+
+💻 Passionate Software Developer with an interest in building scalable web applications and AI-powered solutions.
+
+🌱 Currently exploring
+- Full-Stack Development
+- Artificial Intelligence
+- Cloud Computing
+- Open Source
+
+🚀 Active Open Source Contributor
+
+⚡ I enjoy solving challenging problems, learning new technologies, and contributing to meaningful projects.
+
+> *"First, solve the problem. Then, write the code."* — John Johnson
 
 ---
 
-## 🌐 Connect with Me  
+# 🌐 Connect With Me
+
 <p align="center">
-  <a href="mailto:akshitbansal2005@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/akshit-bansal-a05247232/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://www.instagram.com/_excusemeakshit_"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
-  <a href="https://github.com/akshitbansal2005"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+<a href="mailto:Akshitbansal.workspace@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/akshit-bansal-a05247232/">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://leetcode.com/">
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+</a>
+
+<a href="https://codeforces.com/">
+<img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge"/>
+</a>
+
+<a href="https://github.com/akshitbansal2005">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://your-portfolio-link.vercel.app">
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel"/>
+</a>
 </p>
 
 ---
 
-## ⚡ Fun Facts  
-- 🎯 Solved **250+ DSA problems** on platforms like LeetCode & Codeforces  
-- 🌍 Built **projects impacting users globally**  
-- 🏆 Active contributor in **Hackathons & Open-Source Programs**  
-- 🤖 Experimenting with **AI, Robotics, and IoT Projects**  
-
----
-
-## ⚒️ Tech Stack
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,py,js,bash,html,css,react,nextjs,tailwind,bootstrap,nodejs,express,mongodb,postgresql,mysql,git,github,linux,ubuntu,docker,vscode,figma,netlify,arduino&perline=13" />
-</p>
-
-
-## 📊 GitHub Stats  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=akshitbansal2005&show_icons=true&theme=radical" alt="stats" height="180"/>
-  <img src="https://streak-stats.demolab.com/?user=akshitbansal2005&theme=radical" alt="streak" height="180"/>
-</p>
+# ⚒️ Tech Stack
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akshitbansal2005&layout=compact&theme=radical" height="150"/>
+<img src="https://skillicons.dev/icons?i=c,cpp,python,javascript,bash,html,css,react,nextjs,tailwind,bootstrap,nodejs,express,mongodb,postgresql,mysql,git,github,linux,ubuntu,docker,vscode,figma,netlify,arduino&perline=13"/>
 </p>
 
 ---
 
-## 🔥 Activity Graph  
-[![Akshit's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=akshitbansal2005&bg_color=0D1117&color=00FFCC&line=00FFCC&point=FFFFFF&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+# 📚 Currently Learning
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/System%20Design-0D1117?style=for-the-badge&logo=bookstack"/>
+
+<img src="https://img.shields.io/badge/Cloud%20Computing-0D1117?style=for-the-badge&logo=icloud"/>
+
+<img src="https://img.shields.io/badge/AI%20Applications-0D1117?style=for-the-badge&logo=openai"/>
+
+<img src="https://img.shields.io/badge/Backend%20Architecture-0D1117?style=for-the-badge"/>
+
+</p>
 
 ---
 
-<!-- Footer Wave Animation -->
+# 🏆 Highlights
+
+🌟 Open Source Contributor - GirlScript Summer of Code
+
+💙 Microsoft Learn Student Ambassador
+
+🏆 Qualified Google Big Code Competition Qualifier
+
+🥇 Top 12 among 300+ participants in AlgoUniversity Coding Competition
+
+📜 Cisco Networking Essentials Certified
+
+📜 Nutanix Certified
+
+---
+
+# 📈 GitHub Stats
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=footer"/>
+
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=akshitbansal2005&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="180" src="https://streak-stats.demolab.com?user=akshitbansal2005&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+<p align="center">
+
+<img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akshitbansal2005&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 📊 Contribution Graph
+
+[![Akshit's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=akshitbansal2005&theme=tokyo-night&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+---
+
+# 💬 Quote
+
+<p align="center">
+
+<i>"Consistency beats intensity. Build something every day."</i>
+
+</p>
+
+---
+
+<p align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=140&section=footer"/>
+
 </p>
