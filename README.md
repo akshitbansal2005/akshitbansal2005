@@ -100,24 +100,6 @@
 
 ---
 
-# 📈 GitHub Stats
-
-<p align="center">
-
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=akshitbansal2005&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="180" src="https://streak-stats.demolab.com?user=akshitbansal2005&theme=tokyonight&hide_border=true"/>
-
-</p>
-
-<p align="center">
-
-<img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akshitbansal2005&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
 # 📊 Contribution Graph
 
 [![Akshit's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=akshitbansal2005&theme=tokyo-night&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
